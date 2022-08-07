@@ -7,4 +7,4 @@ no fast forward.
 
 bug is coming.
 
-My friend is sb.
+My friend is starting.
