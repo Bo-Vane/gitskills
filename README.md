@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 no fast forward.
 
 bug is coming.
+
+My friend is starting.
