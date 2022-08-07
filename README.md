@@ -1,5 +1,5 @@
 # gitskills
-this is a repo for test cloning
+this is a repo for test bug
 
 Creating a new branch is quick and simple.
 
